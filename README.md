@@ -58,7 +58,7 @@
 
 1. Клонируйте репозиторий проекта:
    ```bash
-   git clone [<ссылка на репозиторий>](https://github.com/KovikaSA/UtilsCatGrep.git)
+   git clone https://github.com/KovikaSA/UtilsCatGrep.git
    ```
 
 2. Перейдите в директорию проекта:
